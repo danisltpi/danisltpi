@@ -1,16 +1,25 @@
-### hello
+# Hi, I’m Thien 👋  
 
-<!--
-**danisltpi/danisltpi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack Developer | 🔐 Security Enthusiast | 🚀 Problem Solver  
 
-Here are some ideas to get you started:
+I’m a developer based in Karlsruhe with a strong focus on **modern and secure web applications**.  
+My passion lies in building **efficient, scalable, and user-friendly solutions** from frontend interfaces to backend services always with an eye on clean code.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Tech Stack
+- **Frontend:** Angular, TypeScript, Cypress  
+- **Backend:** Spring Boot, NestJS GraphQL, PostgreSQL  
+---
+
+### 📂 Featured Projects
+- [**Kennich Magazin**](https://kennichmagazin.de)  
+  Web platform for a Berlin-based culture magazine. Built with **SvelteKit**, powered by **Sanity CMS**, deployed on **Cloudflare**.  
+---
+
+### 📊 GitHub Stats
+![Thien's GitHub stats](https://github-readme-stats.vercel.app/api?username=danisltpi&show_icons=true&theme=radical)
+---
+
+📫 **Contact me:**  
+[Email](mailto:dthien.luu@gmail.com)
