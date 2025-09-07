@@ -8,8 +8,8 @@ My passion lies in building **efficient, scalable, and user-friendly solutions**
 ---
 
 ### 🛠 Tech Stack
-- **Frontend:** Angular, TypeScript, Cypress  
-- **Backend:** Spring Boot, NestJS GraphQL, PostgreSQL  
+- **Frontend:** Angular, Cypress  
+- **Backend:** Spring Boot, NestJS, GraphQL, PostgreSQL  
 ---
 
 ### 📂 Featured Projects
