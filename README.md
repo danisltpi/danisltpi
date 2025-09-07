@@ -13,8 +13,9 @@ My passion lies in building **efficient, scalable, and user-friendly solutions**
 ---
 
 ### 📂 Featured Projects
-- [**Kennich Magazin**](https://kennichmagazin.de)  
+- [**Kennich Magazin**](https://github.com/danisltpi/client)  
   Web platform for a Berlin-based culture magazine. Built with **SvelteKit**, powered by **Sanity CMS**, deployed on **Cloudflare**.  
+  👉 Live: [kennichmagazin.de](https://kennichmagazin.de)  
 ---
 
 ### 📊 GitHub Stats
