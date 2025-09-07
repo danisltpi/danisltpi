@@ -8,7 +8,7 @@ My passion lies in building **efficient, scalable, and user-friendly solutions**
 ---
 
 ### 🛠 Tech Stack
-- **Frontend:** Angular, Cypress  
+- **Frontend:** Angular, Svelte, Cypress  
 - **Backend:** Spring Boot, NestJS, GraphQL, PostgreSQL  
 ---
 
